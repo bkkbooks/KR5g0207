@@ -1,0 +1,134 @@
+canonical_identifier: bkk:krp/KR5g0207/CK-KZ-jye/v1
+canonical_location: https://kanripo.org/bkk/KR5g0207/CK-KZ-jye/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大乘妙林經
+  date: '2015-08-29 03:00:00.309774'
+  source:
+    repository: kanripo
+    path: KR5g0207
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+  edition:
+    short: CK-KZ-jye
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5g0207_000-CK-KZ-jye.yaml, hash: 'sha256:c871ec3eca4d934c1d6ff8b717a333d599c9145c6ae391ac41ea9a4fd62ca099'}
+  - {seq: 1, filename: KR5g0207_001-CK-KZ-jye.yaml, hash: 'sha256:71d342c8f895c7fdf59982024eec9acffbaac20ef11bc8a312b879a299806b28'}
+  - {seq: 2, filename: KR5g0207_002-CK-KZ-jye.yaml, hash: 'sha256:fa9f3f6b0e79f98b20bed4f609dfeaaaad256a37c5fc32539f5435ff9be32a8b'}
+  - {seq: 3, filename: KR5g0207_003-CK-KZ-jye.yaml, hash: 'sha256:22c44ed894244c93b5325f1b6844ece8b5cb00d16cbb13054ac8d84a609efe34'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR5g0207_001-CK-KZ-jye.markers.yaml, hash: 'sha256:39016c4b88999d3286360d814974703ad4aafa87da626e6382c69f9b64b4d98c'}
+  - {seq: 2, role: markers, filename: assets/KR5g0207_002-CK-KZ-jye.markers.yaml, hash: 'sha256:3c52f78aed4d30144b6c02495fad8f00ece29a9938b0100546d468e23c29d007'}
+  - {seq: 3, role: markers, filename: assets/KR5g0207_003-CK-KZ-jye.markers.yaml, hash: 'sha256:5f19be525af4be8f19e4ec3dfc9fc2f81dc2e31538b5f52d2c6c9346cae3772b'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR5g0207_CK-KZ-jye_001-h2
+    span:
+    - body
+    - 0
+    - 2630
+  label: 序品第一
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5g0207_CK-KZ-jye_001-h3
+    span:
+    - body
+    - 2630
+    - 5044
+  label: 觀眞相品第二
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5g0207_CK-KZ-jye_001-h4
+    span:
+    - body
+    - 5044
+    - 7676
+  label: 辯邪正品第三
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5g0207_CK-KZ-jye_002-h1
+    span:
+    - body
+    - 0
+    - 1883
+  label: 觀身品第四
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5g0207_CK-KZ-jye_002-h2
+    span:
+    - body
+    - 1883
+    - 3438
+  label: 童子問品第五
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5g0207_CK-KZ-jye_002-h3
+    span:
+    - body
+    - 3438
+    - 5465
+  label: 隨順品第六
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR5g0207_CK-KZ-jye_003-h1
+    span:
+    - body
+    - 0
+    - 1557
+  label: 眾眞說法品第七
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR5g0207_CK-KZ-jye_003-h2
+    span:
+    - body
+    - 1557
+    - 3003
+  label: 觀法性品第八
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR5g0207_CK-KZ-jye_003-h3
+    span:
+    - body
+    - 3003
+    - 4881
+  label: 淨慧品第九
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR5g0207_CK-KZ-jye_003-h4
+    span:
+    - body
+    - 4881
+    - 5548
+  label: 讚歎品第十
+  type: section
+  level: 2
+hash: sha256:d50e34e93d07e671c22fa563a1af4cdaf6d3b55d3a82658d22953455d81380df
